@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My first Blog test testing</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My first Blog test testing</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Nov 2025 16:21:52 +1100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>B</title>
+      <link>http://localhost:1313/test-folder/b/</link>
+      <pubDate>Sun, 23 Nov 2025 16:21:52 +1100</pubDate>
+      <guid>http://localhost:1313/test-folder/b/</guid>
+      <description>&lt;p&gt;This is B.md&lt;/p&gt;&#xA;&lt;p&gt;Test 456&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What do I want in my Blog?</title>
+      <link>http://localhost:1313/test-folder/a/</link>
+      <pubDate>Sun, 23 Nov 2025 16:21:52 +1100</pubDate>
+      <guid>http://localhost:1313/test-folder/a/</guid>
+      <description>&lt;h1&gt;&lt;/h1&gt;&#xA;&lt;h5 id=&#34;hey-my-name-is-thomas&#34;&gt;Hey, my name is Thomas.&lt;/h5&gt;&#xA;&lt;p&gt;At the moment, this blog is in a testing fase. However, I want to use that as an opportunity to learn how to create content with Hugo and Mainroad. Ideally, I have some form of content bar at the top (not sure if thats the correct term) for showing of the main categories of content. This would including &lt;strong&gt;Travel stories&lt;/strong&gt;, &lt;strong&gt;About me&lt;/strong&gt;, &lt;strong&gt;Australia WHV&lt;/strong&gt;, &lt;strong&gt;Spanish learning&lt;/strong&gt;, and more! Of course, I want to include photos, especially with stories and my experience from travelling.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
